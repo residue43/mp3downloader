@@ -1,0 +1,18 @@
+# PyInstaller Derleme Klasörleri
+build/
+dist/
+*.spec
+
+# İndirilen Medya Dosyaları
+indirilenler/
+*.mp3
+*.wav
+*.m4a
+
+# Dışa Bağımlı Araçlar (Büyük boyutlu oldukları için repoya atılmaz)
+ffmpeg.exe
+ffprobe.exe
+
+# Python Ön Bellek Dosyaları
+__pycache__/
+*.pyc
