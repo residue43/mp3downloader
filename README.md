@@ -21,4 +21,4 @@ Before running the script, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/residue43/youtube-batch-extractor.git
-cd youtube-batch-extractor
+   cd youtube-batch-extractor
